@@ -16,6 +16,7 @@
   "author": "Michael Aufreiter",
   "contributors": [],
   "dependencies": {
+    "dotenv": "^4.0.0",
     "express": "~3.16.0"
   },
   "engines": {

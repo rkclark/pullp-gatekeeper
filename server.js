@@ -1,3 +1,4 @@
+require('dotenv').config()
 var url     = require('url'),
     http    = require('http'),
     https   = require('https'),
